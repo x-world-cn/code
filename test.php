@@ -5,5 +5,4 @@
  * Date: 2017/9/27
  * Time: 11:06
  */
-sadf
-sadf
+echo 'abc';
